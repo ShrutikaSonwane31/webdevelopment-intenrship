@@ -1,0 +1,56 @@
+body{
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+}
+.container{
+   border:2px solid rgb(23, 2, 126);
+   border-radius: 20px;
+   margin: 134px 432px;
+   padding: 19px 20px;
+   display:inline-flex;
+   flex-direction:column-reverse;
+   background-color:bisque;
+}
+.row{
+   padding:2px 14px;
+   margin:0px;
+}
+.cl{
+   background-color:rgb(243, 160, 160);
+}
+.button{
+   padding:16px 25px;
+   margin:4px;
+   border: 1px solid rgb(23, 2, 126);
+   box-sizing: border-box;
+   border-radius: 43px;
+   cursor: pointer;
+   background-color: rgb(191, 191, 238);
+  font-size: 20px;
+  color: rgb(23, 2, 126);
+}
+#but{
+   padding:17px 18px;
+}
+#ent{
+   padding:17px 35px;
+}
+.items{
+   text-align: center;
+   align-items: center;
+}
+.color{
+   background-color: rgb(252, 174, 216);
+}
+#txt{
+   font-weight: bolder;
+   font-style: normal;
+   font-size: large;
+}
+.row input{
+   padding:15px 18px;
+   margin:21px;
+   border:1px solid rgb(23, 2, 126);
+   border-radius: 5px;
+   font-size: 21px;
+}
